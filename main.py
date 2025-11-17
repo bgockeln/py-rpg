@@ -48,8 +48,8 @@ def main_menu():
 def game_menu():
     clear_screen()
     print("\n==== Game Menu ====")
-    print("1. Fight an intern")
-    print("2. Fight the next boss")
+    print("1. Fight an Intern")
+    print("2. Fight the next Boss")
     print("3. Go shopping")
     print("4. Back to Main Menu")
     choice = input("Choice: ")
